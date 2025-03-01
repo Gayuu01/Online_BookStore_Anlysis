@@ -9,11 +9,11 @@ This project is a SQL-based Online Bookstore that manages books, customers, and 
 
 The project uses three CSV files:
 
-Books.csv – Contains book details such as Book_ID, Title, Genre, Price, and Stock.
+- <a href = "https://drive.google.com/file/d/1-3vAQU3oDfCZsFpN2fJNHm7cayla-bUD/view?usp=sharing"> Books.csv</a> – Contains book details such as Book_ID, Title, Genre, Price, and Stock.
 
-Customers.csv – Contains customer details such as Customer_ID, Name, Email, and Location.
+- <a href = "https://drive.google.com/file/d/14gjb60inMG2nvWDb3e8DDozg0GYJxbkd/view?usp=sharing"> Customers.csv</a> – Contains customer details such as Customer_ID, Name, Email, and Location.
 
-Orders.csv – Contains order details with Book_ID, Customer_ID, Quantity, and Order Date.
+- <a href = "https://drive.google.com/file/d/1CVXAxtx6XM3rBWA82WcQRmdInWSdS25v/view?usp=sharing"> Orders.csv</a> – Contains order details with Book_ID, Customer_ID, Quantity, and Order Date.
 
 ## 🔧 Features
 
@@ -83,6 +83,6 @@ Introduce triggers for automatic stock updates.
 
 ## 👨‍💻 Author
 
-Gayatri Bhusal
+Gayatri Bhusal.
 GitHub: https://github.com/Gayuu01
 
