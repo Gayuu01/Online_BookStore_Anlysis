@@ -61,63 +61,63 @@ The project uses three CSV files:
 
 📈 Sales & Demand Trends
 
-Identify the most popular book genres based on total sales.
+- Identify the most popular book genres based on total sales.
 
-Determine the most frequently ordered book to analyze customer preferences.
+- Determine the most frequently ordered book to analyze customer preferences.
 
 👥 Customer Insights
 
-List customers who placed multiple orders to identify loyal buyers.
+- List customers who placed multiple orders to identify loyal buyers.
 
-Find the highest-spending customers for targeted marketing strategies.
+- Find the highest-spending customers for targeted marketing strategies.
 
 💰 Revenue & Financial Analysis
 
-Calculate the total revenue generated from all orders.
+- Calculate the total revenue generated from all orders.
 
-Identify high-value transactions by retrieving orders exceeding a certain amount.
+- Identify high-value transactions by retrieving orders exceeding a certain amount.
 
 📦 Inventory & Stock Management
 
-Identify books with low stock to prioritize restocking.
+- Identify books with low stock to prioritize restocking.
 
-Calculate remaining stock after fulfilling all orders for better inventory control.
+- Calculate remaining stock after fulfilling all orders for better inventory control.
 
 📍 Geographic Insights
 
-List customer locations to understand regional demand.
+- List customer locations to understand regional demand.
 
-Identify cities where customers spent the most to target marketing efforts.
+- Identify cities where customers spent the most to target marketing efforts.
 
 ⏰ Time-Based Sales Trends
 
-Analyze seasonal sales by checking orders placed in specific periods (e.g., November 2023).
+- Analyze seasonal sales by checking orders placed in specific periods (e.g., November 2023).
 
-Find books published after a certain year to track demand for newer publications.
+- Find books published after a certain year to track demand for newer publications.
 
 ## 🛠 Technologies Used
 
-MySQL
+- MySQL
 
-CSV for data storage
+- CSV for data storage
 
-SQL Queries for Data Manipulation
+- SQL Queries for Data Manipulation
 
 ## 🚀 How to Run the Project
 
-Import the CSV files into your SQL database.
+- Import the CSV files into your SQL database.
 
-Run the provided SQL scripts to create tables and insert data.
+- Run the provided SQL scripts to create tables and insert data.
 
-Execute the queries to perform data analysis and retrieval.
+- Execute the queries to perform data analysis and retrieval.
 
 ## 📌 Future Enhancements
 
-Implement a front-end for book browsing.
+- Implement a front-end for book browsing.
 
-Add stored procedures for better data management.
+- Add stored procedures for better data management.
 
-Introduce triggers for automatic stock updates.
+- Introduce triggers for automatic stock updates.
 
 ## 👨‍💻 Author
 
